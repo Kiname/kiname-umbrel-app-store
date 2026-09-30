@@ -17,5 +17,6 @@ port: 8501
 path: ""
 defaultUsername: ""
 defaultPassword: ""
+dependencies: []
 gallery:
-  - 1.jpg
+  - "1.jpg"
