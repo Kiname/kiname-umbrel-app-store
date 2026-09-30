@@ -14,5 +14,8 @@ submission: https://github.com/Kiname
 repo: https://github.com/kiname/kiname-umbrel-app-store
 support: https://github.com/kiname/kiname-umbrel-app-store/issues
 port: 8501
+path: ""
+defaultUsername: ""
+defaultPassword: ""
 gallery:
   - 1.jpg
