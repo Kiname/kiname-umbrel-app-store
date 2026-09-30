@@ -4,7 +4,7 @@ category: finance
 name: Solo Mining Calc
 version: "1.0.0"
 tagline: Simulador de minería en tiempo real
-icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/solo-mining/icon.svg
+icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.svg
 description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario.
   Actualización automática cada 5 minutos.
@@ -16,7 +16,7 @@ repo: https://github.com/Kiname/kiname-umbrel-app-store
 support: https://github.com/Kiname/kiname-umbrel-app-store/issues
 port: 8501
 gallery:
-  - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/solo-mining/1.jpg
+  - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/1.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
