@@ -7,7 +7,8 @@ services:
       APP_PORT: 8501
 
   app:
-    image: kiname01/solo-mining:1.0
+    # REEMPLAZA EL HASH DE ABAJO POR EL TUYO REAL
+    image: kiname01/solo-mining@sha256:d2eb5169dcd08a313842bff2bfdec41dcf7fc5cb7f1efa180d9d0ebe4f945903
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data:/app/data
