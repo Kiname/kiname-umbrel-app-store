@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: solo-mining_app_1
+      APP_HOST: kiname-solo-mining_app_1
       APP_PORT: 8501
 
   app:
