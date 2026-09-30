@@ -11,7 +11,7 @@ description: >-
 developer: KinameLabs
 website: https://github.com/Kiname
 support: https://github.com/Kiname/kiname-umbrel-app-store/issues
-dependencies: []
+dependencies:
 port: 8501
 gallery:
   - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/solo-mining/1.jpg
