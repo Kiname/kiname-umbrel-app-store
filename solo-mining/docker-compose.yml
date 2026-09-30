@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   web:
-    image: tu_usuario/solo-mining:1.0
+    image: kiname01/solo-mining:1.0
     restart: on-failure
     volumes:
       # Umbrel vincula esta carpeta automáticamente. Aquí vivirá tu archivo JSON.
