@@ -8,17 +8,15 @@ icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/solo
 description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario.
   Actualización automática cada 5 minutos.
-releaseNotes: ""
 developer: KinameLabs
 website: https://github.com/Kiname
-dependencies: []
-repo: https://github.com/Kiname/kiname-umbrel-app-store
 support: https://github.com/Kiname/kiname-umbrel-app-store/issues
+dependencies: []
 port: 8501
 gallery:
   - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/solo-mining/1.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
+releaseNotes: ""
 submitter: KinameLabs
-submission: https://github.com/Kiname
