@@ -1,12 +1,12 @@
 version: "3.7"
+
 services:
   app_proxy:
     environment:
-      # El formato siempre es: id_servicio_1 (en tu caso: solo-mining_web_1)
-      APP_HOST: solo-mining_web_1
+      APP_HOST: solo-mining_app_1
       APP_PORT: 8501
 
-  web:
+  app:
     image: kiname01/solo-mining:1.0
     restart: on-failure
     volumes:
