@@ -14,7 +14,7 @@ website: https://github.com/Kiname
 dependencies: []
 repo: https://github.com/Kiname/kiname-umbrel-app-store
 support: https://github.com/Kiname/kiname-umbrel-app-store/issues
-port: 8501
+port: 8555
 gallery:
   - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/1.jpg
 path: ""
