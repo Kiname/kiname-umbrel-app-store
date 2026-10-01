@@ -2,13 +2,13 @@ manifestVersion: 1
 id: kiname-solo-mining
 category: finance
 name: Solo Mining Calc
-version: "1.3.5"
+version: "1.3.6"
 tagline: Simulador de minería en tiempo real
 icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.svg
 description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario.
   Actualización automática cada 5 minutos. API en 8557 http://<LOCAL_IP>:8557/api/beneficios.
-  Control automatico de potncia a traves de Tuya.
+  Control automatico de potencia a traves de Tuya.
 releaseNotes: ""
 developer: KinameLabs
 website: https://github.com/Kiname
