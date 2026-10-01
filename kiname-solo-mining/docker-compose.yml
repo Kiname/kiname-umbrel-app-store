@@ -8,7 +8,7 @@ services:
 
   app:
     # REEMPLAZA EL HASH DE ABAJO POR EL TUYO REAL
-    image: kiname01/solo-mining@sha256:d2eb5169dcd08a313842bff2bfdec41dcf7fc5cb7f1efa180d9d0ebe4f945903
+    image: kiname01/solo-mining@sha256:17491bb93f6dcd1e54f8ee13db959d83ad1b85b4bffe71ff277037bc4db73d61
     restart: on-failure
     volumes:
       - ${APP_DATA_DIR}/data:/app/data
