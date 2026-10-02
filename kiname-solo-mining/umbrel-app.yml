@@ -4,7 +4,7 @@ category: finance
 name: Solo Mining Control
 version: "1.4.5"
 tagline: Controlador de minería en tiempo real
-icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.svg
+icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.png
 description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario.
   Actualización automática cada 5 minutos. API en 8557 http://<LOCAL_IP>:8557/api/beneficios.
