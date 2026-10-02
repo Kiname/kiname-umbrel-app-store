@@ -2,7 +2,7 @@ manifestVersion: 1
 id: kiname-solo-mining
 category: finance
 name: Solo Mining Control
-version: "1.4.3"
+version: "1.4.4"
 tagline: Controlador de minería en tiempo real
 icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.svg
 description: >-
