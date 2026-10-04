@@ -8,7 +8,7 @@ services:
 
   app:
     # REEMPLAZA EL HASH DE ABAJO POR EL TUYO REAL
-    image: kiname01/solo-mining:1.5.7@sha256:10627d00714318fad15c9e3cdade7a250ac932937dbeff119fdb45b1b8d54939
+    image: kiname01/solo-mining:1.5.8@sha256:72b3ea4b60855ce6cab9c64efc90d3df789fdec628fd4411ce68305821f65441
     ports:
       - "0.0.0.0:8557:8557" # <-- NUEVO: Expone la API REST a la red local
     restart: on-failure
