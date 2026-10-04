@@ -9,7 +9,7 @@ description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario, en España.
   Actualización automática cada 5 minutos. API en 8557 http://<LOCAL_IP>:8557/api/beneficios.
   Control automatico de potencia a traves de rele Tuya.
-  Automatic Mining Oversee (AMO)
+  Automatic Mining Overseer (AMO)
 releaseNotes: ""
 developer: KinameLabs
 website: https://github.com/Kiname
