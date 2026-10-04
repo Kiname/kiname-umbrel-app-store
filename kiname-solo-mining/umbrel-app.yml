@@ -2,7 +2,7 @@ manifestVersion: 1
 id: kiname-solo-mining
 category: finance
 name: Solo Mining Control
-version: "1.5.8"
+version: "1.5.9"
 tagline: Controlador de minería en tiempo real
 icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.png
 description: >-
@@ -13,6 +13,8 @@ description: >-
   Control automatico de potencia a traves de rele Tuya y mensajes de estado por ntfy.
   
   Con la inestimable colaboracion del AMO (Automated Mining Overseer).
+
+  (c)KinameLab 2026
   
 releaseNotes: ""
 developer: KinameLabs
