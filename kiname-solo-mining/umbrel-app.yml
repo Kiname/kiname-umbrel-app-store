@@ -10,7 +10,7 @@ description: >-
   
   Actualización automática cada 5 minutos. API en 8557 http://<LOCAL_IP>:8557/api/beneficios.
   
-  Control automatico de potencia a traves de rele Tuya.
+  Control automatico de potencia a traves de rele Tuya y mensajes de estado por ntfy.
   
   Con la inestimable colaboracion del AMO (Automatic Mining Overseer).
   
