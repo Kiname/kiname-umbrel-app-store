@@ -2,7 +2,7 @@ manifestVersion: 1
 id: kiname-solo-mining
 category: finance
 name: Automated Mining Overseer (AMO)
-version: "1.7.6"
+version: "1.7.7"
 tagline: Controlador de minería en tiempo real
 icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.png
 description: >-
