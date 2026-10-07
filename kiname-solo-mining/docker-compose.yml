@@ -8,7 +8,7 @@ services:
 
   app:
     
-    image: kiname01/solo-mining:1.7.9@sha256:ef475e40b6197e073c7ffcde8e5319c203526ede19f5cb3abd528bf3858cf801
+    image: kiname01/solo-mining:1.8.0@sha256:fec52a4377097cd8e63899fa21a51dc1b16acba5391bd79aff91166aec144a2f
     ports:
       - "0.0.0.0:8557:8557" # <-- NUEVO: Expone la API REST a la red local
     restart: on-failure
