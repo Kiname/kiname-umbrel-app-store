@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: kiname-nano-controller_app_1
+      APP_HOST: kiname-nano-control_app_1
       APP_PORT: 8901
 
   app: 
