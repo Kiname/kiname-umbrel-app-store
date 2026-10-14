@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: kiname-nano-controller
+category: finance
+name: nano-3s
+version: "1.0.1"
+tagline: Controlador ventiladores nano-3s
+icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-nano-controller/icon.png
+description: >-
+  Controla los ventiladores del Avalon Nano 3s con un PID parametrizable.
+  
+  Mensajes de alarma y notificaciones por ntfy.
+
+  (c) KinameLab 2026
+  
+releaseNotes: ""
+developer: KinameLabs
+website: https://github.com/Kiname
+dependencies: []
+repo: https://github.com/Kiname/kiname-umbrel-app-store
+support: https://github.com/Kiname/kiname-umbrel-app-store/issues
+port: 8901
+gallery:
+  - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-nano-controller/1.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: KinameLabs
+submission: https://github.com/Kiname
