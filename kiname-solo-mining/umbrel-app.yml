@@ -4,7 +4,7 @@ category: finance
 name: A.M.O.
 version: "1.8.7"
 tagline: Controlador de minería en tiempo real
-icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.png
+icon: https://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@raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/icon.png
 description: >-
   Calcula la rentabilidad, riesgo y gasto eléctrico para minería en solitario, en España.
   
@@ -24,7 +24,7 @@ repo: https://github.com/Kiname/kiname-umbrel-app-store
 support: https://github.com/Kiname/kiname-umbrel-app-store/issues
 port: 8555
 gallery:
-  - https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/1.jpg
+  - https://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@raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-solo-mining/1.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
