@@ -7,7 +7,7 @@ services:
       APP_PORT: 8901
 
   app: 
-    image: kiname01/nano-controller:1.0.3@sha256:fa82a479ddce26be05926eba2363d2fd9e647ab64503ac7f2601eebe79c0f3c7
+    image: kiname01/nano-controller:1.0.4@sha256:52a92de88017700f32a429b911e9ebf9527efc32235651e5a7c790c6eecba37b
     
     restart: on-failure
     volumes:
