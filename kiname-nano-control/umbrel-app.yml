@@ -2,7 +2,7 @@ manifestVersion: 1
 id: kiname-nano-control
 category: finance
 name: nano-3s
-version: "1.0.3"
+version: "1.0.4"
 tagline: Controlador ventiladores nano-3s
 icon: https://raw.githubusercontent.com/Kiname/kiname-umbrel-app-store/main/kiname-nano-control/icon.png
 description: >-
