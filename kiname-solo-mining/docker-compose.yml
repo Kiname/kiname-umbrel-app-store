@@ -7,7 +7,7 @@ services:
       APP_PORT: 8501
 
   app: 
-    image: kiname01/solo-mining:2.3.7@sha256:460482e7c7e7bfc4949ed54ab59d4622f2114f98018cebe3e3fb3084cc341133
+    image: kiname01/solo-mining:2.3.8@sha256:648c0ddfe23250a3e69e06aa08ffc477cccc8681c247bf8984ebc17097e938a7
     ports:
       - "0.0.0.0:8557:8557" # <-- NUEVO: Expone la API REST a la red local
     restart: on-failure
